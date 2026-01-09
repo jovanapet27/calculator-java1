@@ -10,8 +10,23 @@ Expected result: 8
 Actual result: 8
 Status: PASS
 
-## Test Case 2
+## Test Case 3
 Input: 5/0
 Expected result: Error message
 Actual result: Infinity
 Status: Infinity
+
+## Test Case 4
+Input: -5+3
+Expected result: -2.0
+Actual result: -2.0
+
+## Test Case 5
+Input: +4+4+2
+Expected result: 10.0
+Actual result: 10.0
+
+## Test Case 5
+Input:  0.0001/0.01
+Expected result: 0.01
+Actual result: 0.01

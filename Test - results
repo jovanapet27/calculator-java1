@@ -1,0 +1,17 @@
+## Test Case 1
+Input: 10*8
+Expected result: 80
+Actual result: 80
+Status: PASS
+
+## Test Case 2
+Input: 5+6/2
+Expected result: 8
+Actual result: 8
+Status: PASS
+
+## Test Case 2
+Input: 5/0
+Expected result: Error message
+Actual result: Infinity
+Status: Infinity
